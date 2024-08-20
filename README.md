@@ -8,7 +8,7 @@ Layout Responsivo: O layout se ajusta a diferentes tamanhos de tela.
 
 Fonte Personalizada: A página utiliza a fonte "MuseoModerno" do Google Fonts.
 
-Galeria de Imagens: Uma grade de imagens de consoles usando Flexbox.
+Galeria de Imagens: Uma grade de imagens.
 
 ## Tecnologias Usadas
 HTML: Para estruturar a página web.
