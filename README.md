@@ -16,7 +16,7 @@ CSS: Para estilizar a página, incluindo o uso de Flexbox para o layout.
 1. Clone o repositório:
 https://github.com/annajulli/Flexbox.git
 
-3. Abra o arquivo index.html no seu navegador para ver a página.
+2. Abra o arquivo index.html no seu navegador para ver a página.
 
 
 
