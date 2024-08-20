@@ -1,4 +1,4 @@
-# Flexbox
+# Projeto Flexbox
 ---
-## Projeto
-### Como usar:
+## Introdução
+
