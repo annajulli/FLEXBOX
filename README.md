@@ -6,8 +6,6 @@ Este projeto demonstra como criar um layout simples de página web usando HTML e
 ## Funcionalidades
 Layout Responsivo: O layout se ajusta a diferentes tamanhos de tela.
 
-Fonte Personalizada: A página utiliza a fonte "MuseoModerno" do Google Fonts.
-
 Galeria de Imagens: Uma grade de imagens.
 
 ## Tecnologias Usadas
